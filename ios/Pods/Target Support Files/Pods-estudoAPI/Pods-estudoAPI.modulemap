@@ -1,0 +1,6 @@
+module Pods_estudoAPI {
+  umbrella header "Pods-estudoAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}

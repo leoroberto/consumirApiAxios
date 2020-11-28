@@ -1,0 +1,6 @@
+module Pods_estudoAPI_estudoAPITests {
+  umbrella header "Pods-estudoAPI-estudoAPITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
